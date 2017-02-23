@@ -1,1 +1,1 @@
-This is a example app for pipeline demo.
+This is an example app for pipeline demo.
